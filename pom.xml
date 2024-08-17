@@ -96,15 +96,15 @@
 
 	<distributionManagement>
 	    <repository>
-	      <id>acada-release</id>
+	      <id>orion-release</id>
 	      <name>ACADA Learning release Nexus Repository</name>
-	      <url>http://172.31.30.38:8081/repository/acada-release/</url>
+	      <url>http://http://nexus:8081/repository/Orion-Release/</url>
 	    </repository>
 
 	    <snapshotRepository>
 	      <id>acada-snapshot</id>
 	      <name>ACADA Learning snapshot Nexus Repository </name>
-	      <url>http://172.31.30.38:8081/repository/acada-snapshot/</url>
+	      <url>http://nexus:8081/repository/Orion-Snapshot/</url>
 	    </snapshotRepository>
 
 	</distributionManagement>
